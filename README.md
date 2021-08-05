@@ -1,4 +1,4 @@
-# create a simple Message Broker app 
+# A simple Message Broker app 
 ## written in python
 
 
